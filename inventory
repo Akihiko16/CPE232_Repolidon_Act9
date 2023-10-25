@@ -1,0 +1,6 @@
+[Ubuntu]
+#server1
+192.168.56.109
+[CentOS]
+#server3
+192.168.56.112
